@@ -1,3 +1,68 @@
+# Friday Night Funkin' Agronomy Crisis
+
+wow so real, cant believe its finally comming to the public :ayo:
+anyways, among us among us among us, among us among us among us, a m o n g u s
+
+suicid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anyways the rest is the official psych engine readme
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
