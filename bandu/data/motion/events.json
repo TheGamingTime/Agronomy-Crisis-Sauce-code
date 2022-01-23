@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "viod",
+		"player1": "bf",
+		"player2": "bandu",
+		"player3": null,
+		"events": [
+			[
+				13714.2857142857,
+				[
+					[
+						"Change Scroll Speed",
+						"1.16",
+						"0.1"
+					]
+				]
+			],
+			[
+				63085.7142857143,
+				[
+					[
+						"Change Character",
+						"1",
+						"angybambu"
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				63085.7142857143,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0"
+					]
+				]
+			],
+			[
+				65057.1428571429,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				79542.8571428571,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "motion"
+	}
+}

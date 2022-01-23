@@ -1,0 +1,40 @@
+{
+	"storyName": "bandu and drenbu or whatever the fuck his name was",
+	"difficulties": "original, mania",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "bandu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"motion",
+			"bandu",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"royal",
+			"drenbu",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"bandu",
+		"bf",
+		"gf"
+	],
+	"weekName": "extros"
+}
